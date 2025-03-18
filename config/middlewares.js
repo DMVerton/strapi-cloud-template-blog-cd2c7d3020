@@ -9,6 +9,7 @@ module.exports = [
       headers: '*',
       origin: [
         'http://localhost:1337',
+        'https://id-preview--8d587402-801c-49e8-aaed-c39af9c1ac30.lovable.app',
         'https://8d587402-801c-49e8-aaed-c39af9c1ac30.lovableproject.com',
         'https://contentlogix.ai'
       ]
